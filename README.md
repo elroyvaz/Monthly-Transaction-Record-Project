@@ -18,10 +18,12 @@ The analysis section focuses on deriving insights from the prepared data. Key ta
 - Identifying any anomalies or irregularities in the data.
 
 ### 3. Visualization
-Visualization plays a crucial role in presenting the analysis results in an understandable format. This section includes:
+Visualization is crucial in presenting the analysis results in an understandable format. This section includes:
 - Creating charts and graphs to visualize the distribution of customers over months.
 - Highlighting significant trends or patterns through visual representation.
 - Enhancing the clarity and interpretation of the analysis findings.
+
+![image](https://github.com/elroyvaz/Monthly-Transaction-Record-Project/assets/134976627/5ce6df92-38c5-4611-96bf-5aad5526015c)
 
 ### 4. Interpretation
 Interpreting the analysis results is essential for drawing meaningful conclusions. This section involves:
