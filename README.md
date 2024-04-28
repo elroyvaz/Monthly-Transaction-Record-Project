@@ -1,7 +1,7 @@
 # Monthly-Transaction-Record-Project
 
 ## Introduction
-Welcome to the Monthly Transaction Record Data Analysis project! This repository contains the analysis of monthly transaction records using Excel and VBA. The primary goal of this project is to calculate and display the percentage of customers for each month based on transaction data.
+Welcome to this Monthly Transaction Record Data Analysis project! This repository contains the analysis of monthly transaction records using Excel and VBA. The primary goal of this project is to calculate and display the percentage of customers for each month based on transaction data.
 
 ## Sections
 
@@ -22,6 +22,7 @@ Visualization is crucial in presenting the analysis results in an understandable
 - Creating charts and graphs to visualize the distribution of customers over months.
 - Highlighting significant trends or patterns through visual representation.
 - Enhancing the clarity and interpretation of the analysis findings.
+  
 
 ![image](https://github.com/elroyvaz/Monthly-Transaction-Record-Project/assets/134976627/5ce6df92-38c5-4611-96bf-5aad5526015c)
 
@@ -33,9 +34,10 @@ Interpreting the analysis results is essential for drawing meaningful conclusion
 
 ## Key Takeaways
 After analyzing the monthly transaction records, the following key takeaways have been identified:
-1. Customer distribution varies significantly across months, indicating potential seasonality or external factors influencing demand.
-2. The percentage of new customers fluctuates, suggesting fluctuations in market growth or marketing effectiveness.
-3. Some months have a high percentage of new customers but lower transaction rates per customer, indicating a need for retention strategies.
-4. The presence of errors such as "#DIV/0!" in certain months indicates potential data quality issues that require further investigation and rectification.
 
-Thank you for exploring the Monthly Transaction Record Data Analysis project! Feel free to reach out for any questions or feedback.
+📊 Customer distribution varies significantly across months, indicating potential seasonality or external factors influencing demand.
+🔄 The percentage of new customers fluctuates, suggesting fluctuations in market growth or marketing effectiveness.
+🎯 Some months have a high percentage of new customers but lower transaction rates per customer, indicating a need for retention strategies.
+⚠️ The presence of errors such as "#DIV/0!" in certain months indicates potential data quality issues that require further investigation and rectification.
+
+Thank you for taking the time to read my project, the Monthly Transaction Record Data Analysis project! Feel free to reach out for any questions or feedback.
